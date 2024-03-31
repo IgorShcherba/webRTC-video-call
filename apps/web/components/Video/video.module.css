@@ -1,0 +1,5 @@
+.videoPlayer {
+  background-color: rgb(var(--dark));
+  width: 100%;
+  height: 300px;
+}
